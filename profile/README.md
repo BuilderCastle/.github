@@ -21,8 +21,6 @@ At BuilderClan, we believe in building solutions that matter. Whether you're a c
 - 🐛 **Report bugs** or suggest features in the issues section.  
 - 🎉 **Collaborate** with us by contributing to our repositories.  
 
-## 📊 Our Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=builder-clan&show_icons=true&theme=radical)  
 
 ---
 
