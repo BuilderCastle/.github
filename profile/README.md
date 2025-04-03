@@ -13,7 +13,7 @@ At BuilderClan, we believe in building solutions that matter. Whether you're a c
 - 🌟 **Innovate:** Explore cutting-edge tech and turn ideas into reality.  
 
 ## 🚀 Join the Clan  
-- 🌍 **Website:** [builderclan.org]()  
+- 🌍 **Website:** [builderclan.vercel.app](https://builderclan.vercel.app/)
 - 📬 **Email:** main.builderclan@gmail.com
 
 ## 🤝 Get Involved  
